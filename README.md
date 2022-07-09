@@ -3,9 +3,10 @@
 
 
 
-features
-•[x]Adiciona usuario
-•[x]Remove usuario
-•[x]Edita usuario ja cadastrado
+### Features
+
+-[x]Adiciona usuario
+-[x]Remove usuario
+-[x]Edita usuario ja cadastrado
 
 
