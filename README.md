@@ -1,2 +1,11 @@
-# CRUD-JavaScript-2
-Fiz esse Crud para meu Estudo de JavaScript.
+# CRUD-JavaScript-2/CRUD-Casdastro de usuario 
+<h4 aling="center">💻🖱Fiz esse Crud para meu Estudo de JavaScript.💻🖱</4>
+
+
+
+features
+•[x]Adiciona usuario
+•[x]Remove usuario
+•[x]Edita usuario ja cadastrado
+
+
