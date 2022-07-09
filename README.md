@@ -10,7 +10,17 @@
 - [x] Edita usuario ja cadastrado
 
 <h1 align="center">
-<img alt="Readme" title="Readme" src="./CRUD-JavaScript-2/Readme-gif.gif" />
+<img alt="Readme" title="Readme" src="./Readme-gif.gif" />
 </h1>
+
+### Tecnologias
+
+As seguintes ferramentas que foram usadas na construção do projeto:
+
+- [Html]
+- [Css]
+- [JavaScript]
+
+Made with by Fernado Leonid(Curso em video/Passo a Passo do CRUD)
 
 
