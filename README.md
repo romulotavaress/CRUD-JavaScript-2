@@ -9,6 +9,6 @@
 - [x] Remove usuario
 - [x] Edita usuario ja cadastrado
 
-<h1 align="center"><img title="Readme" src="./CRUD-JavaScript-2/Readme-gif.gif"/></h1>
+<h1 align="center"><img title="Readme" alt"Readme" src="/CRUD-JavaScript-2/Readme-gif.gif"/></h1>
 
 
