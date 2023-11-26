@@ -21,6 +21,6 @@ As seguintes ferramentas que foram usadas na construção do projeto:
 - [Css]
 - [JavaScript]
 
-Made with by Fernado Leonid(Curso em video/Passo a Passo do CRUD)
+
 
 
